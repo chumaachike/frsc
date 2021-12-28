@@ -1,0 +1,11 @@
+{
+  "name": "frsc",
+  "version": "1.0.0",
+  "description": "\"ESUT final project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achike Chuma",
+  "license": "ISC"
+}
